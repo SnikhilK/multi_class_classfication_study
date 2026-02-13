@@ -26,7 +26,7 @@ The dataset was collected using accelerometer and gyroscope sensors embedded in 
 - **Number of Features**: 561 numerical features
 - **Number of Instances**: 10,299 samples
 
-The original dataset is provided in separate training and test sections. For this assignment, the data was merged and converted into a single CSV file to enable unified model training &  evaluation.
+The original dataset is provided in separate training and test sections. For this assignment, the data was merged and converted into a single CSV file to enable unified model training & evaluation.
 
 ---
 

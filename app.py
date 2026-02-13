@@ -44,10 +44,8 @@ st.set_page_config(
 )
 
 st.title("Multi-Class Classification Model Evaluation")
-st.subheader(
-    "Demonstrated on Human Activity Recognition (HAR) dataset from UCI Repositories, "
-    "as part of WILP Machine Learning Course (Assignment 2)"
-)
+st.subheader("Demonstrated on Human Activity Recognition (HAR) dataset from UCI Repositories.")
+st.caption("Developed by Sai Nikhil Kandagiri, as part of WILP Machine Learning Course (reg. 2025AA05555)")
 
 # -----------------------------
 # Load Offline Metrics
