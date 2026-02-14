@@ -1,4 +1,4 @@
-# A Comparision study on Classification Models (Machine Learning Assignment 2)
+# A Comparison study on Classification Models (Machine Learning Assignment 2)
 
 ## 1. Problem Statement
 
